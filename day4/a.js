@@ -1,4 +1,3 @@
-import { constants } from "buffer";
 import { readFile } from "fs";
 const testInput = [
   "2-4,6-8",
