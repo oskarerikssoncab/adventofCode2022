@@ -10,6 +10,8 @@
     "start2b": "node day2/b.js",
     "start3a": "node day3/a.js",
     "start3b": "node day3/b.js",
+    "start9a": "node day9/a.js",
+    "start9b": "node day9/b.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
